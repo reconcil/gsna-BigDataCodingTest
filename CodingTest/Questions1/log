@@ -1,1 +1,9 @@
-
+UserName Port         IPAddress        TimeStamp          Detail     
+sysadmin pts/1        10.0.2.2         Mon Dec  9 10:31   still logged in
+sysadmin pts/0        10.0.2.2         Fri Nov 29 15:42   crash  (00:01)  
+sysadmin pts/0        10.0.2.2         Thu Nov 28 17:06   17:13  (00:06)  
+sysadmin pts/0        10.0.2.2         Thu Nov 28 16:17   17:05  (00:48)  
+sysadmin pts/0        10.0.2.2         Thu Nov 28 09:29   crash  (06:04)  
+sysadmin pts/0        10.0.2.2         Wed Nov 27 16:37   down   (00:29)  
+sysadmin tty1                          Wed Nov 27 14:05   down   (00:36)  
+sysadmin tty1                          Wed Nov 27 13:49   14:04  (00:15)  
