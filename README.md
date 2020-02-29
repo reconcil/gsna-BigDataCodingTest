@@ -1,4 +1,5 @@
 # gsna-BigDataCodingTest
+Candidate should chose one of questions to do the Coding Test.
 
 Pre-Request:
 1. Candidate should prepare the develop environment before this coding test.
@@ -8,4 +9,4 @@ Pre-Request:
 5. DO NOT using "sort by" "order by" or "createOrReplaceTempView" in your code.
 Good Luck ! 
 
-PS：Candidate should pick one of questions to do the Coding Test.
+
