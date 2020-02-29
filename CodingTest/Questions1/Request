@@ -1,0 +1,6 @@
+1. Read log file into the spark.
+2. The schema should same with first row.
+3. Find the Tom's information.
+4. Find how many times did Carl login.
+5. Find the UserName that crash in detail.
+6. Fill the blank in IPAddress with "Unknown IP"
