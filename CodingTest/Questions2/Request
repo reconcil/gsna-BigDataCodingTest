@@ -1,0 +1,7 @@
+#Request:
+1. Read "students" file into the spark.
+2. The schema should same with first row.
+3. Find the Danny's information.
+4. Find highest score in class 4.(Including the student's information)
+5. Caculate the average scroe in class 2.
+6. Add "Index" column before "Name" column.
