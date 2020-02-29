@@ -1,3 +1,4 @@
+#Request:
 1. Read log file into the spark.
 2. The schema should same with first row.
 3. Find the Tom's information.
