@@ -1,0 +1,4 @@
+#Request:
+1. Read the "Text" into Spark.
+2. Do the "word count" in this text and transfer the output as DataFrame Using "word" and "count" as schema.
+3. Add a column named "Frequency" at last. When the "count" > 1 set the value as "High" when the "count" < 0 set the value as "Low".
