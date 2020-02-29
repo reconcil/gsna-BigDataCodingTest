@@ -7,3 +7,5 @@ Pre-Request:
 4. Please do using DataFrame API to manipulate the data.
 5. DO NOT using "sort by" "order by" or "createOrReplaceTempView" in your code.
 Good Luck ! 
+
+PS：Candidate should pick one of questions to do the Coding Test.
