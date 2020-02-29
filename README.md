@@ -7,6 +7,8 @@ Pre-Request:
 3. Please do using Spark and Scala to manipulate the data.
 4. Please do using DataFrame API to manipulate the data.
 5. DO NOT using "sort by" "order by" or "createOrReplaceTempView" in your code.
+6. For each Questions. please read the "Request" first ! 
+#
 Good Luck ! 
 
 
