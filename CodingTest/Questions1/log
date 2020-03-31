@@ -1,9 +1,9 @@
-UserName Port         IPAddress        TimeStamp          Detail     
-sysadmin pts/1        10.0.2.1         Mon Dec  9 10:31   still logged in
-Tom      pts/1        10.0.2.2         Fri Nov 29 15:42   crash  (00:01)  
-Tom      pts/2        10.0.2.2         Thu Nov 28 17:06   17:13  (00:06)  
-sys      pts/2        10.0.2.3         Thu Nov 28 16:17   17:05  (00:48)  
-sysadmin pts/3        10.0.2.3         Thu Nov 28 09:29   crash  (06:04)  
-Carl     pts/3        10.0.2.4         Wed Nov 27 16:37   down   (00:29)  
-Carl     tty1                          Wed Nov 27 14:05   down   (00:36)  
-sysadmin tty1                          Wed Nov 27 13:49   14:04  (00:15)  
+UserName ,Port         ,IPAddress        ,TimeStamp          ,Detail     
+sysadmin ,pts/1        ,10.0.2.1         ,Mon Dec  9 10:31   ,still logged in
+Tom      ,pts/1        ,10.0.2.2         ,Fri Nov 29 15:42   ,crash  (00:01)  
+Tom      ,pts/2        ,10.0.2.2         ,Thu Nov 28 17:06   ,17:13  (00:06)  
+sys      ,pts/2        ,10.0.2.3         ,Thu Nov 28 16:17   ,17:05  (00:48)  
+sysadmin ,pts/3        ,10.0.2.3         ,Thu Nov 28 09:29   ,crash  (06:04)  
+Carl     ,pts/3        ,10.0.2.4         ,Wed Nov 27 16:37   ,down   (00:29)  
+Carl     ,tty1         ,                 ,Wed Nov 27 14:05   ,down   (00:36)  
+sysadmin ,tty1         ,                 ,Wed Nov 27 13:49   ,14:04  (00:15)  
