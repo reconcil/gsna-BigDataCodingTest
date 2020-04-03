@@ -1,0 +1,5 @@
+1.Read the "info" into DataFrame
+2.Fill the blank value with "Unkonwn" 
+3.Count the people for "M" and "F"
+4.Count the avg age for people whose topic is "Sport" and "Arts"
+5.Transform the country code "GB" to "UK"
